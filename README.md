@@ -1,5 +1,7 @@
 # DJI Thermal Image Processing - User Guide
 
+![alt text](assert/description.png)
+
 ## What This Tool Does
 
 This tool converts DJI thermal camera JPG images into temperature-data TIFF files that can be used in Pix4Dmapper for creating thermal orthomosaics. It preserves GPS coordinates, camera metadata, and temperature information from your thermal images.
