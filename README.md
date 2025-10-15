@@ -249,7 +249,6 @@ This ensures accurate georeferencing and camera calibration in Pix4Dmapper.
 
 ## Need More Help?
 
-- Review the detailed Chinese documentation: `README.md`
 - Check DJI Thermal SDK documentation in `dji_thermal_sdk_v1.7_20241205/doc/`
 - Visit [Pix4D Support](https://support.pix4d.com/) for orthomosaic processing questions
 
