@@ -1,0 +1,119 @@
+# Project-specific (requested)
+.venv/
+dji_thermal_sdk_v1.7_20241205/
+exiftool-13.29_64/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyo
+
+# C extensions
+*.so
+
+# Distribution / packaging (root-scoped)
+.Python
+/build/
+/dist/
+/downloads/
+/eggs/
+/.eggs/
+/sdist/
+/var/
+/wheels/
+/pip-wheel-metadata/
+/share/python-wheels/
+/lib/
+/lib64/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+pytestdebug.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Type checking / linters
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.pyright/
+.ruff_cache/
+
+# Environments
+.env
+.env.*
+.envrc
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.conda/
+.conda_env/
+.uv/
+.uv_cache/
+
+# Editors/IDEs
+# VS Code: ignore all except common shared configs
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+# JetBrains
+.idea/
+*.iml
+
+# Workspace files
+*.code-workspace
+
+# Logs / temp files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Icon?
+.nfs*
+
+# Binaries / objects
+*.dll
+*.dylib
+*.exe
+*.lib
+*.a
+*.o
+*.obj
+*.pdb
+*.out
