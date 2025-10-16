@@ -1,6 +1,6 @@
 # DJI Thermal Image Processing - User Guide
 
-![alt text](assert/description.png)
+![alt text](assets/description.png)
 
 ## What This Tool Does
 
