@@ -1,7 +1,7 @@
 [project]
 name = "dji-thermal"
 version = "1.7.0"
-description = "DJI热红外处理工具"
+description = "DJI_Thermal_Tool"
 readme = "README.md"
 requires-python = ">=3.9,<3.13"
 dependencies = [
